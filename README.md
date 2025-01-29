@@ -16,5 +16,6 @@ This project is a **frontend clone** of the **YouTube homepage**, built using **
 - **SVG Icons** for UI elements  
 
 ## 🎥 Live Demo
-Check out the live demo: [YouTube Clone](https://yourusername.github.io/repository-name/)
+Check out the live demo: [YouTube Clone](https://jinaldave3.github.io/YouTube-homepage/)
+
 
